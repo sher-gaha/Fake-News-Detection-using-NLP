@@ -107,7 +107,7 @@ Access the application in your web browser by navigating to `http://localhost:50
 ---
 
 **Author**
-- ABHISHEK P P (https://github.com/sher-gaha)
+- Sher Bdr Gaha (https://github.com/sher-gaha)
 
 - If you have any questions or need further assistance, feel free to contact us at bzugaha55@gmail.com
 
